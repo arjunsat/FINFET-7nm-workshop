@@ -1,5 +1,5 @@
-#FinFET Scaling, Fabrication, and Future Device Integration#
-🧠 FinFET Circuit Design & Technology Workshop
+FinFET Scaling, Fabrication, and Future Device Integration
+   FinFET Circuit Design & Technology Workshop
 
 This repository documents my complete work and technical notes from the FinFET Circuit Design & Characterization Workshop, focusing on device physics, fabrication evolution, and next-generation transistor innovations. The goal was to understand how FinFET and nanosheet technologies enable scaling to the 7 nm node and beyond using ASAP7 PDK, Xschem, and Ngspice.
 
