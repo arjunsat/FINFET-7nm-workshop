@@ -16,7 +16,6 @@ primarily because we are not ableto cool the systems down in a very efficient ma
 After the release of iphone, a lot of technology was directed the direction of mobile applications.   These devices does not have a very well designed cooling systems. So the power dissipation is less.Hence the frequency is also saturated in the curve. 
 <img width="940" height="518" alt="image" src="https://github.com/user-attachments/assets/c0e09e6a-35bc-4be0-9466-a689084a91d8" />
 
-<img width="940" height="518" alt="image" src="https://github.com/user-attachments/assets/7b489d85-c5bf-41e3-a01b-274da616c820" />
 
 <img width="940" height="508" alt="image" src="https://github.com/user-attachments/assets/f728dea2-f658-457f-b00b-f826ba72aa8f" />
 
