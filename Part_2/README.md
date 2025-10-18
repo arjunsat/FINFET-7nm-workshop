@@ -273,7 +273,21 @@ LTspice → Closed-source, fast and user-friendly for analog design and prototyp
 
 
 
-LAB SIMULATIONS -----INVERTER CHARACTERIZATION
+LAB SIMULATIONS -----
+
+
+
+NFET CHARACTERISATION
+ID
+<img width="657" height="502" alt="image" src="https://github.com/user-attachments/assets/ca470879-a571-4f02-b282-6d74a28b6c6a" />
+Spice Code
+<img width="761" height="579" alt="image" src="https://github.com/user-attachments/assets/b4b16532-b28d-4cc5-a0bd-9aa081b9b85c" />
+
+<img width="717" height="577" alt="image" src="https://github.com/user-attachments/assets/4acc8c28-2450-4979-9206-98a81da189c5" />
+
+
+
+INVERTER CHARACTERIZATION
 
 <img width="533" height="532" alt="image" src="https://github.com/user-attachments/assets/86fa15ac-537e-45a5-9a70-dac79d8367bf" />
 
