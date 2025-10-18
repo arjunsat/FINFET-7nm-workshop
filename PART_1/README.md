@@ -35,7 +35,7 @@ But it could nt give us steep enough on to off switching
 Finfet – gave us better short channel effects so better on to of switching
 today – gate all around and nano sheet
 
-<img width="940" height="723" alt="image" src="https://github.com/user-attachments/assets/97ec3891-a661-4d82-9d72-52b3bd84cdf2" />
+
 
 FINFETS
 <img width="940" height="549" alt="image" src="https://github.com/user-attachments/assets/73f257e9-328a-45e1-a30a-0d0ba49c4fa0" />
