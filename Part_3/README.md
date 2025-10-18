@@ -254,3 +254,12 @@ PTAT: voltage increases with temperature.
 
 Add them together → constant voltage.
 This principle is used in bandgap reference circuits to keep all electronic devices stable and accurate.
+
+
+OUR PROJECT
+
+<img width="940" height="684" alt="image" src="https://github.com/user-attachments/assets/d7ea9e57-2e0c-4f09-9d8d-7c16be615e06" />
+
+
+
+
