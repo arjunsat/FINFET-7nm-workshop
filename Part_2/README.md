@@ -270,3 +270,33 @@ Best For	Education, research, FinFET modeling	Analog/power IC design, quick prot
 NGSPICE → Open-source, research-focused, flexible for FinFET and device modeling.
 
 LTspice → Closed-source, fast and user-friendly for analog design and prototyping.
+
+
+
+LAB SIMULATIONS -----INVERTER CHARACTERIZATION
+
+<img width="533" height="532" alt="image" src="https://github.com/user-attachments/assets/86fa15ac-537e-45a5-9a70-dac79d8367bf" />
+Transfer Charateristics
+<img width="538" height="289" alt="image" src="https://github.com/user-attachments/assets/d5a97efd-109b-409e-b9fb-ffe929fcb145" /> 
+Drain Current
+<img width="503" height="332" alt="image" src="https://github.com/user-attachments/assets/9461651a-2f4d-4c50-b0ed-5d80a97c14ee" />
+Drain Current Investigation
+<img width="714" height="696" alt="image" src="https://github.com/user-attachments/assets/40684aee-d7dd-4fd0-9061-bf7f966d6b5f" />
+Output Resistance
+<img width="311" height="284" alt="image" src="https://github.com/user-attachments/assets/26991a53-61d4-4156-ba39-b662f1ceba82" />
+Switching Voltage 
+<img width="415" height="211" alt="image" src="https://github.com/user-attachments/assets/735f5223-e7b3-41e5-8910-70974f7f9100" />
+Switching Voltage investigation
+<img width="542" height="208" alt="image" src="https://github.com/user-attachments/assets/bf76e696-0b66-4a7c-954f-fa47f04bc9a7" />
+
+
+
+
+
+
+
+
+
+
+
+
