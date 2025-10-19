@@ -256,19 +256,35 @@ Add them together → constant voltage.
 This principle is used in bandgap reference circuits to keep all electronic devices stable and accurate.
 
 
-OUR PROJECT
+   BANDGAP CIRCUIT
+   
 
 <img width="1348" height="845" alt="image" src="https://github.com/user-attachments/assets/6ddb12b6-38ec-4df5-9f28-260f8abc5093" />
 
 
-The schematic made in xschem
+
+
+THE CIRCUIT MADE IN XSCHEM
+
+
 
 <img width="1426" height="759" alt="image" src="https://github.com/user-attachments/assets/aa8db922-a673-4993-8c91-1b82a9ffc928" />
 
-The simulated Graphs
+THE SIMULATED GRAPHS
 
 
 <img width="360" height="320" alt="image" src="https://github.com/user-attachments/assets/74a6e459-a885-45d8-b07a-6c170fe86f2f" />
+
+
+
+
+
+
+
+
+
+
+
 
 
 
