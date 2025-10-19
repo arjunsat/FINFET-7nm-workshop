@@ -258,7 +258,7 @@ This principle is used in bandgap reference circuits to keep all electronic devi
 
 OUR PROJECT
 
-<img width="940" height="684" alt="image" src="https://github.com/user-attachments/assets/d7ea9e57-2e0c-4f09-9d8d-7c16be615e06" />
+<img width="1348" height="845" alt="image" src="https://github.com/user-attachments/assets/6ddb12b6-38ec-4df5-9f28-260f8abc5093" />
 
 
 The schematic made in xschem
