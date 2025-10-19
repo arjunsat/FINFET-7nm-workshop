@@ -261,5 +261,11 @@ OUR PROJECT
 <img width="940" height="684" alt="image" src="https://github.com/user-attachments/assets/d7ea9e57-2e0c-4f09-9d8d-7c16be615e06" />
 
 
+The schematic made in xschem
+
+<img width="1426" height="759" alt="image" src="https://github.com/user-attachments/assets/aa8db922-a673-4993-8c91-1b82a9ffc928" />
+
+
+
 
 
