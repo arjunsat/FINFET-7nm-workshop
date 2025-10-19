@@ -267,8 +267,12 @@ The schematic made in xschem
 
 The simulated Graphs
 
-<img width="374" height="320" alt="image" src="https://github.com/user-attachments/assets/215e41e0-ae53-4295-b2cf-c2134399c41b" />
+
 <img width="360" height="320" alt="image" src="https://github.com/user-attachments/assets/74a6e459-a885-45d8-b07a-6c170fe86f2f" />
+
+
+
+<img width="374" height="320" alt="image" src="https://github.com/user-attachments/assets/215e41e0-ae53-4295-b2cf-c2134399c41b" />
 
 
 
