@@ -264,16 +264,6 @@ This principle is used in bandgap reference circuits to keep all electronic devi
 
 
 
-THE CIRCUIT MADE IN XSCHEM
-
-
-
-<img width="1426" height="759" alt="image" src="https://github.com/user-attachments/assets/aa8db922-a673-4993-8c91-1b82a9ffc928" />
-
-THE SIMULATED GRAPHS
-
-
-<img width="360" height="320" alt="image" src="https://github.com/user-attachments/assets/74a6e459-a885-45d8-b07a-6c170fe86f2f" />
 
 
 
@@ -288,7 +278,14 @@ THE SIMULATED GRAPHS
 
 
 
-<img width="374" height="320" alt="image" src="https://github.com/user-attachments/assets/215e41e0-ae53-4295-b2cf-c2134399c41b" />
+
+
+
+
+
+
+
+
 
 
 
